@@ -11,3 +11,11 @@ The aim of this notebook is to introduce you to the core concepts in developing 
 In each of the Machine Learning projects it is important to understand the workflow. This diagram summarizes the steps within these projects.
 
 ![image](https://user-images.githubusercontent.com/76072249/114486132-456f5780-9bdb-11eb-90eb-7da3004a1ba0.png)
+
+
+In this example exercise, the most common and famous libraries were used to carry out any ML project.
+
+1. `numpy`, which provides vectorised arrays, and maths, algebra functionality;
+2. `pandas`, which provides data structures and data analysis tools;
+3. `matplotlib`, which provides highly customisable plotting functionality (and we also use `seaborn`, built on top of `matplotlib`, which is less customisable but can generate charts with less code).
+4. `scikit-learn`, which provides models and tools for most machine learning algorithms
