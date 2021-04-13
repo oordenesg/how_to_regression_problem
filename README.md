@@ -13,7 +13,7 @@ In each of the Machine Learning projects it is important to understand the workf
 ![image](https://user-images.githubusercontent.com/76072249/114486132-456f5780-9bdb-11eb-90eb-7da3004a1ba0.png)
 
 
-In this example exercise, the most common and famous libraries were used to carry out any ML project.
+In this example, the most common and famous libraries were used. 
 
 1. `numpy`, which provides vectorised arrays, and maths, algebra functionality;
 2. `pandas`, which provides data structures and data analysis tools;
